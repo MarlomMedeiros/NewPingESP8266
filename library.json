@@ -1,19 +1,6 @@
 {
     "name": "NewPingESP8266",
-    "keywords": [
-        "newpingesp8266",
-        "ping",
-        "ping_in",
-        "ping_cm",
-        "ping_median",
-        "ping_timer",
-        "check_timer",
-        "timer_us",
-        "timer_ms",
-        "timer_stop",
-        "convert_in",
-        "convert_cm"
-    ],    
+    "keywords": "newping8266, ping, ping_in, ping_cm, ping_median, ping_timer, check_timer, timer_us, timer_ms, timer_stop, convert_in, convert_cm",
     "description": "NewPingESP8266 is a library for the Arduino IDE that makes it easy to use the NewPing library with ESP8266. NewPing Library (Ultrasonic Sensors)",
     "repository": {
         "type": "git",
